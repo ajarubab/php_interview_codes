@@ -23,7 +23,6 @@ function isPrime($num) {
     return true;
 }
 
-// Example
 $number = 299;
 echo isPrime($number) ? "$number is a Prime number" : "$number is Not a Prime number";
 
